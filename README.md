@@ -5,7 +5,7 @@ Concluding two projects.
 1. SmartDorm_Main  
   Main control application  
   Board: STM32F4_EVB  
-  Features: 
+  Features:   
     (1) Air-condition controller.   
     (2) Room informations concluding temperature and humidity.    
     (3) Anti-theif system.    
