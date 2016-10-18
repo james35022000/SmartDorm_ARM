@@ -6,9 +6,10 @@ Concluding two projects.
   Main control application  
   Board: STM32F4_EVB  
   Features:   
-    (1) Air-condition controller.   
-    (2) Room informations concluding temperature and humidity.    
-    (3) Anti-theif system.    
+  
+      (1) Air-condition controller.   
+      (2) Room informations concluding temperature and humidity.    
+      (3) Anti-theif system.    
   
 2. SmartDrom_WCS  
   Washing Clothes Server  
