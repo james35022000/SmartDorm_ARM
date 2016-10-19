@@ -16,3 +16,5 @@ Concluding two projects.
   Board: STM3241G 
   Features:
     
+※These two projects are for server. User need to install android app [**SmartDormClient**][src] to use these features.
+[src]:https://github.com/james35022000/SmartDormClient
