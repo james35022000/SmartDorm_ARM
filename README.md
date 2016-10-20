@@ -1,5 +1,6 @@
 # SmartDorm_ARM
-ARM Design Contest  
+ARM Design Contest 2016  
+  
 Concluding two projects.  
   
 1. SmartDorm_Main  
